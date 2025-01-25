@@ -8,4 +8,4 @@ ox_lib,
 rsg-core,
 rsg-inventory
 
-you need to have items defined in the config.lua for the shop too open will add a notification for this in the future
+you need to have items defined in the config.lua for the shop too open i will add a notification for this in the future
